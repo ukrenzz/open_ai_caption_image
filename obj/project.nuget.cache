@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uV+NrxLvvmZu7iTMaNfhyJJJCAbFex/NZBICK41kALrrom3ngTEURY9H4+rtLHhba366sKzppxfYbq9DlQQ2CQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\ChatGPT\\ac_image\\AC Image\\AC Image.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EvilMagics\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\EvilMagics\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\EvilMagics\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

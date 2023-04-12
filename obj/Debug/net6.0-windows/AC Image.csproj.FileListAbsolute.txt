@@ -1,0 +1,27 @@
+D:\Project\ChatGPT\ac_image\AC Image\bin\Debug\net6.0-windows\AC Image.exe
+D:\Project\ChatGPT\ac_image\AC Image\bin\Debug\net6.0-windows\AC Image.deps.json
+D:\Project\ChatGPT\ac_image\AC Image\bin\Debug\net6.0-windows\AC Image.runtimeconfig.json
+D:\Project\ChatGPT\ac_image\AC Image\bin\Debug\net6.0-windows\AC Image.dll
+D:\Project\ChatGPT\ac_image\AC Image\bin\Debug\net6.0-windows\AC Image.pdb
+D:\Project\ChatGPT\ac_image\AC Image\bin\Debug\net6.0-windows\RestSharp.dll
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC Image.csproj.AssemblyReference.cache
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC Image.csproj.GenerateResource.cache
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC Image.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC Image.AssemblyInfoInputs.cache
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC Image.AssemblyInfo.cs
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC Image.csproj.CoreCompileInputs.cache
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC Image.csproj.CopyComplete
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC Image.dll
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\refint\AC Image.dll
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC Image.pdb
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC Image.genruntimeconfig.cache
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\ref\AC Image.dll
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC_Image.ImageDetail.resources
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC_Image.Testing.resources
+D:\Project\ChatGPT\ac_image\AC Image\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Project\ChatGPT\ac_image\AC Image\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC Image.g.resources
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC_Image.Properties.Resources.resources
+D:\Project\ChatGPT\ac_image\AC Image\bin\Debug\net6.0-windows\AC Image.dll.config
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC_Image.MainForm.resources
+D:\Project\ChatGPT\ac_image\AC Image\obj\Debug\net6.0-windows\AC_Image.UploadImage.resources
